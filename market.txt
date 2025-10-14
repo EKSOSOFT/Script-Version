@@ -2,3 +2,4 @@ version: 1.1.0
 changelog:
 - Added : RSG CORE
 - Fixed : SQL Error
+- Changed File : server.lua client.lua config.lua(Config.Framework = "auto") added core_adapter.lua 
